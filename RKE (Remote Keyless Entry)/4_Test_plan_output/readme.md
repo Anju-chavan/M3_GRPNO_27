@@ -8,6 +8,7 @@
 |04|approach light|switch pressed four times|Shall turn On approach light|Shall turn On approach light|
 
 
+
 # LOW LEVEL TEST PLAN
 
 |Test|Description|Input|Expected output|Actual Output|
