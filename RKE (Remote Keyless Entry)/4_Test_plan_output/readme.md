@@ -7,6 +7,7 @@
 |03|alarm activate / deactivate|switch pressed three times|shall activate / deactivate alarm|shall activate / deactivate alarm|
 |04|approach light|switch pressed four times|Shall turn On approach light|Shall turn On approach light|
 
+
 # LOW LEVEL TEST PLAN
 
 |Test|Description|Input|Expected output|Actual Output|
